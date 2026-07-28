@@ -1,0 +1,29 @@
+
+## Your relay's nickname (letters and numbers only, max 19 chars)
+Nickname MyPiRelay
+
+## Ports
+ORPort 9001
+DirPort 9030
+
+## Safety settings — non-negotiable
+ExitRelay 0
+ExitPolicy reject *:*
+SocksPort 0
+
+## Contact information (HIGHLY recommended)
+ContactInfo YourName <your@email.com>
+
+## Bandwidth: Start conservative
+BandwidthRate 2 MB
+BandwidthBurst 4 MB
+
+## Optional: Monthly data cap
+# AccountingMax 100 GB
+# AccountingStart month 1 00:00
+
+## Logging
+Log notice file /var/log/tor/notices.log
+
+## Data directory
+DataDirectory /var/lib/tor

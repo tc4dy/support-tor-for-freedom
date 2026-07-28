@@ -1,0 +1,17 @@
+Nickname MyWindowsRelay
+ContactInfo YourName <your@email.com>
+
+ORPort 9001
+
+ExitRelay 0
+ExitPolicy reject *:*
+SocksPort 0
+
+BandwidthRate 1 MB
+BandwidthBurst 2 MB
+
+AccountingMax 50 GB
+AccountingStart month 1 00:00
+
+Log notice file C:\tor\tor.log
+DataDirectory C:\tor\data

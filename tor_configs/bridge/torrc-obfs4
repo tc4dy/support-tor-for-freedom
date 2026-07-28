@@ -1,0 +1,31 @@
+## Tell Tor this is a bridge
+BridgeRelay 1
+
+## Port for Tor traffic (use 443 or 80 to look like HTTPS/HTTP)
+ORPort 443
+
+## obfs4 pluggable transport
+ServerTransportPlugin obfs4 exec /usr/bin/obfs4proxy
+ServerTransportListenAddr obfs4 0.0.0.0:9002
+
+## Don't publish to the main directory
+PublishServerDescriptor 0
+
+## Safety settings
+ExitRelay 0
+ExitPolicy reject *:*
+SocksPort 0
+
+## Contact and nickname
+ContactInfo your@email.com
+Nickname MyBridge
+
+## Bandwidth
+BandwidthRate 5 MB
+BandwidthBurst 10 MB
+
+## Logging
+Log notice file /var/log/tor/notices.log
+
+## Data directory
+DataDirectory /var/lib/tor

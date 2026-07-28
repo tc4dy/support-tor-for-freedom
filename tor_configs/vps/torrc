@@ -1,0 +1,33 @@
+## Relay identity
+Nickname MyVPSRelay
+ContactInfo YourName <your@email.com>
+
+## Ports
+ORPort 9001
+DirPort 9030
+
+## Safety settings - non-negotiable
+ExitRelay 0
+ExitPolicy reject *:*
+SocksPort 0
+
+## VPS bandwidth: Adjust to ~80% of your actual bandwidth
+## 1 Gbps = 100 MB, 100 Mbps = 10 MB
+BandwidthRate 10 MB
+BandwidthBurst 20 MB
+
+## Optional: Monthly traffic limit
+# AccountingMax 500 GB
+# AccountingStart month 1 00:00
+
+## Logging
+Log notice file /var/log/tor/notices.log
+
+## Data directory
+DataDirectory /var/lib/tor
+
+## IPv6 support (if available)
+# ORPort [your::ipv6::address]:9001
+
+## If VPS blocks DirPort, disable it:
+# DirPort 0

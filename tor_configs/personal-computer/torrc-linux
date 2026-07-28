@@ -1,0 +1,20 @@
+Nickname MyLinuxRelay
+ContactInfo YourName <your@email.com>
+
+ORPort 9001
+DirPort 9030
+
+ExitRelay 0
+ExitPolicy reject *:*
+SocksPort 0
+
+## Lower bandwidth for home connections
+BandwidthRate 1 MB
+BandwidthBurst 2 MB
+
+## Monthly cap to avoid data overages
+AccountingMax 50 GB
+AccountingStart month 1 00:00
+
+Log notice file /var/log/tor/notices.log
+DataDirectory /var/lib/tor

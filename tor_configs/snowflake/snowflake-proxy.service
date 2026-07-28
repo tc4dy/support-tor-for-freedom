@@ -1,0 +1,12 @@
+[Unit]
+Description=Tor Snowflake Proxy
+After=network.target
+
+[Service]
+User=nobody
+ExecStart=/home/YOUR_USERNAME/go/bin/proxy
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
