@@ -30,6 +30,13 @@
 
 ---
 
+## Reference Videos 
+
+[![](Video 1)](https://www.youtube.com/watch?v=2CJGIEunAQ0)
+
+[![](Video 2)](https://www.youtube.com/watch?v=b7i-832Ffsw&t=364s)
+
+
 ## 📖 Table of Contents
 
 | # | Section | Description |
