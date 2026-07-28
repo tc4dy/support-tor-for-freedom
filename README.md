@@ -77,7 +77,7 @@
 | 10 | [🔧 Troubleshooting](#-troubleshooting-guide) | Common problems and fixes |
 | 11 | [💸 Financial Support](#-financial-support--organizations) | How to donate, who to support |
 | 12 | [🔗 Resources](#-essential-links--resources) | All official links in one place |
-| 13 | [⚙️ Ready-to-Use Config Files](#-ready-to-use-config-files) | Pre-configured torrc files for all setups ||
+| 13 | [⚙️ Ready-to-Use Config Files](#-ready-to-use-config-files) | Pre-configured torrc files for all setups |
 
 ---
 
