@@ -30,11 +30,17 @@
 
 ---
 
+---
+
 ## Reference Videos 
 
-[![](Video 1)](https://www.youtube.com/watch?v=2CJGIEunAQ0)
+<a href="https://youtube.com)https://youtube.com">
+  <img src="https://wikimedia.org" width="300">
+</a>
 
-[![](Video 2)](https://www.youtube.com/watch?v=b7i-832Ffsw&t=364s)
+<a href="https://youtube.com)https://youtube.com">
+  <img src="https://wikimedia.org" width="300">
+</a>
 
 
 ## 📖 Table of Contents
