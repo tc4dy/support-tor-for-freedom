@@ -38,7 +38,7 @@
 | 1 | [🧅 How Tor Works](#-how-tor-works-technically) | Onion routing, relay types explained simply |
 | 2 | [⚖️ Legal & Safety](#%EF%B8%8F-legal--safety-information) | What you are and aren't responsible for |
 | 3 | [🖥️ Raspberry Pi Setup](#1-raspberry-pi-the-247-freedom-machine) | Full Pi relay/bridge guide, all models |
-| 4 | [☁️ VDS / VPS Setup](#2-vds--vps-server-setup-the-powerhouse) | Ubuntu/Debian, hardening, monitoring |
+| 4 | [☁️ VDS / VPS Setup](#vds--vps-server-setup) | Ubuntu/Debian, hardening, monitoring |
 | 5 | [🆓 Free VDS Providers](#-free-vds--vps-providers-the-complete-list) | 12+ free/trial cloud servers listed |
 | 6 | [🌉 Bridge Setup](#bridge-setup-helping-censored-users-connect) | obfs4, Snowflake bridge, HTTPS pluggable transport |
 | 7 | [❄️ Snowflake](#4-snowflake--the-easiest-way-to-help-no-technical-knowledge-required) | Browser extension & standalone daemon |
