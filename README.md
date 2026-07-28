@@ -1624,12 +1624,12 @@ You don't need to be a hacker. You don't need to be technical. You need a comput
 
 You can find pre-configured `torrc` files for each setup in the [`configs/`](configs/) directory:
 
-- [Raspberry Pi](configs/raspberry-pi/torrc)
-- [VPS / Cloud Server](configs/vps/torrc)
-- [Bridge with obfs4](configs/bridge/torrc-obfs4)
-- [Personal Computer (Linux)](configs/personal-computer/torrc-linux)
-- [Personal Computer (macOS)](configs/personal-computer/torrc-macos)
-- [Personal Computer (Windows)](configs/personal-computer/torrc-windows)
-- [Snowflake Systemd Service](configs/snowflake/snowflake-proxy.service)
+- [Raspberry Pi](tor_configs/raspberry-pi/torrc)
+- [VPS / Cloud Server](tor_configs/vps/torrc)
+- [Bridge with obfs4](tor_configs/bridge/torrc-obfs4)
+- [Personal Computer (Linux)](tor_configs/personal-computer/torrc-linux)
+- [Personal Computer (macOS)](tor_configs/personal-computer/torrc-macos)
+- [Personal Computer (Windows)](tor_configs/personal-computer/torrc-windows)
+- [Snowflake Systemd Service](tor_configs/snowflake/snowflake-proxy.service)
 
 ### Thanks to [Claude AI](https://github.com/claude) for the coloring, alignment, and formatting.
