@@ -60,7 +60,6 @@
   </tr>
 </table>
 
-
 ## 📖 Table of Contents
 
 | # | Section | Description |
@@ -78,6 +77,7 @@
 | 10 | [🔧 Troubleshooting](#-troubleshooting-guide) | Common problems and fixes |
 | 11 | [💸 Financial Support](#-financial-support--organizations) | How to donate, who to support |
 | 12 | [🔗 Resources](#-essential-links--resources) | All official links in one place |
+| 13 | [⚙️ Ready-to-Use Config Files](#-ready-to-use-config-files) | Pre-configured torrc files for all setups ||
 
 ---
 
@@ -1619,5 +1619,17 @@ You don't need to be a hacker. You don't need to be technical. You need a comput
 [![CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 </div>
+
+## ⚙️ Ready-to-Use Config Files
+
+You can find pre-configured `torrc` files for each setup in the [`configs/`](configs/) directory:
+
+- [Raspberry Pi](configs/raspberry-pi/torrc)
+- [VPS / Cloud Server](configs/vps/torrc)
+- [Bridge with obfs4](configs/bridge/torrc-obfs4)
+- [Personal Computer (Linux)](configs/personal-computer/torrc-linux)
+- [Personal Computer (macOS)](configs/personal-computer/torrc-macos)
+- [Personal Computer (Windows)](configs/personal-computer/torrc-windows)
+- [Snowflake Systemd Service](configs/snowflake/snowflake-proxy.service)
 
 ### Thanks to [Claude AI](https://github.com/claude) for the coloring, alignment, and formatting.
