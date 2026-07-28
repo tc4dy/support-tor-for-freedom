@@ -40,7 +40,7 @@
       <a href="https://www.youtube.com/watch?v=2CJGIEunAQ0">
         <img src="https://img.youtube.com/vi/2CJGIEunAQ0/0.jpg" alt="Defend Your Privacy! How To Create Your Own Tor Relay!" width="300">
         <br>
-        <strong>🇬🇧 English Guide</strong>
+        <strong>🇬🇧 English Guide 1</strong>
       </a>
     </td>
     <td align="center">
@@ -48,6 +48,13 @@
         <img src="https://img.youtube.com/vi/b7i-832Ffsw/0.jpg" alt="Eski Bilgisayarınız İnterneti Özgürleştirebilir" width="300">
         <br>
         <strong>🇹🇷 Turkish Guide</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=eeFelgM70Ow">
+        <img src="https://img.youtube.com/vi/eeFelgM70Ow/0.jpg" alt="How to Set Up a Tor Relay in 15 Minutes" width="300">
+        <br>
+        <strong>🇬🇧 English Guide 2</strong>
       </a>
     </td>
   </tr>
