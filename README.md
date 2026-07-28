@@ -50,7 +50,7 @@
 
 ---
 
-## 🌍 Why This Matters — The Case for Internet Freedom
+## <a id="why-this-matters"></a> 🌍 Why This Matters
 
 > *"Privacy is not something that I'm merely entitled to, it's an absolute prerequisite."* — Marlon Brando
 
