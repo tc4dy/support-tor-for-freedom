@@ -34,9 +34,24 @@
 
 ## Reference Videos 
 
-[![Eski Bilgisayarınız İnterneti Özgürleştirebilir: Tor Relay Kurma Rehberi](https://img.youtube.com/vi/b7i-832Ffsw/0.jpg)](https://www.youtube.com/watch?v=b7i-832Ffsw&t=364s)
-
-[![Defend Your Privacy! How To Create Your Own Tor Relay!](https://img.youtube.com/vi/2CJGIEunAQ0/0.jpg)](https://www.youtube.com/watch?v=2CJGIEunAQ0)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=b7i-832Ffsw&t=364s">
+        <img src="https://img.youtube.com/vi/b7i-832Ffsw/0.jpg" alt="Eski Bilgisayarınız İnterneti Özgürleştirebilir" width="300">
+        <br>
+        <strong>🇹🇷 Türkçe Rehber</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=2CJGIEunAQ0">
+        <img src="https://img.youtube.com/vi/2CJGIEunAQ0/0.jpg" alt="Defend Your Privacy! How To Create Your Own Tor Relay!" width="300">
+        <br>
+        <strong>🇬🇧 English Guide</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## 📖 Table of Contents
